@@ -14,3 +14,7 @@ playground equipment
 
 ## Questions I Have
 What this is for
+
+![alt text][def]
+
+[def]: image.png
